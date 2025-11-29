@@ -23,4 +23,7 @@ This project focuses on understanding booking patterns, customer preferences, an
 • Top Trip Types: Airport Transfer, Local, One-way, Outstation, Round Trip
 • Top Car Models: Honda Amaze, Maruti Swift, Toyota Glanza
 • Top Cities: Kanpur, Lucknow, Meerut, Puri, Vadodara
+# Dashboard
+<img width="1262" height="678" alt="Car Booking" src="https://github.com/user-attachments/assets/94af65b5-9bf8-4c3a-b904-8004ecd8110c" />
+
 
