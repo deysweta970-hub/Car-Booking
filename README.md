@@ -8,12 +8,17 @@ This project focuses on understanding booking patterns, customer preferences, an
 
 # Project Overview
 This project focuses on understanding booking patterns, customer preferences, and overall business performance in the car rental domain. The dashboard provides insights into total bookings, revenue, trip trends, high-performing cities, and customer ratings.
-# Key Objectives
-• Analyze total bookings and total revenue
-• Identify top cities contributing to bookings
-• Evaluate ratings across different car types
-• Review booking trends over time (weekly)
-• Analyze demand for car models
+Key Metrics
+
+Total Bookings: 334
+
+Total Revenue: ₹1,100,700
+
+Completed Bookings: 307
+
+Cancelled Bookings: 27
+
+Average Rating: 5.889
 # Dashboard Insights
 • Total Bookings: 334
 • Total Amount: ₹1,100,700
