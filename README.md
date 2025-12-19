@@ -77,7 +77,7 @@ Higher activity observed on weekdays, especially mid-week.
 
 # Tools & Technologies Used
 
-Power BI – Dashboard creation & visualization
+Tableau – Dashboard creation & visualization
 
 DAX – KPI calculations and measures
 
