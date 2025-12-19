@@ -3,109 +3,126 @@ A Tableau dashboard designed to analyze car booking performance across states, t
 #
 <a href="https://github.com/deysweta970-hub/Healthcare-Analytics-Dashboard/commit/d14ac3b90e3d9500e79b69052281bc3975fe454c">Car Booking</a>
 # Project Overview
-This dashboard provides a complete analysis of car bookings across different states, car models, and trip types.
-It helps understand booking trends, customer rating patterns, and high-performing regions/cities.
-# Problem Statement
 
-A car rental company wants to understand its booking performance, customer behavior, revenue trends, and service quality across different cities, car types, and time periods.
-The goal is to identify:
+This project analyzes car booking transactions to understand booking trends, customer preferences, trip patterns, revenue, and service quality.
+The dashboard helps business teams improve fleet utilization, customer satisfaction, and operational efficiency.
 
-Which cities and car models generate the most bookings
+# Business Objectives
 
-Booking completion vs cancellation patterns
+• The main objectives of this analysis were:
 
-Customer satisfaction through ratings
+• Track total bookings, revenue, and completion rate
 
-Peak booking periods (weekly & daily trends)
+• Analyze cancelled vs completed bookings
 
-This analysis helps management optimize fleet allocation, improve customer experience, and increase revenue.
+• Understand trip type preferences
 
-# Objectives
+• Identify top cities and regions
 
-Analyze total bookings, revenue, and booking status
+• Evaluate car model demand and customer ratings
 
-Identify top-performing cities and car models
+# Dataset Information
 
-Understand customer ratings by car type
+• Domain: Transportation / Mobility Analytics
 
-Track weekly and daily booking trends
+• Total Bookings: 334
 
-Provide data-driven insights for business decisions
+• Key Fields:
 
-# Key Metrics (KPIs)
+• Booking ID
 
-Total Bookings: 334
+• Booking Status (Completed / Cancelled)
 
-Total Revenue: ₹1,100,700
+• Booking Amount
 
-Completed Bookings: 307
+• Trip Type
 
-Cancelled Bookings: 27
+• City & State
 
-Average Customer Rating: 5.89
+• Car Type & Car Model
 
-# Dashboard Insights
- Booking Performance
+• Booking Date
 
-Over 91% of bookings are completed, indicating strong operational efficiency.
-
-Low cancellation rate highlights reliable service delivery.
-
- City Analysis
-
-Cities like Puri, Kanpur, Lucknow, and Meerut show higher completed bookings.
-
-These regions are strong candidates for fleet expansion.
-
- Car Model Demand
-
-Honda Amaze and Toyota Glanza are the most booked models.
-
-Maruti FRONX has the lowest demand → scope for pricing or promotion strategy.
-
- Customer Ratings
-
-Luxury and SUV XL car types receive the highest ratings.
-
-Sedan and Temp Traveller have comparatively lower ratings → service improvement needed.
-
- Time-Based Trends
-
-Bookings peak during Week 3 & Week 5.
-
-Higher activity observed on weekdays, especially mid-week.
+• Customer Rating
 
 # Tools & Technologies Used
 
-Tableau – Dashboard creation & visualization
+• Excel – Data cleaning and preparation
 
-DAX – KPI calculations and measures
+• Tableau– Data modeling, DAX measures, and dashboard development
 
-Excel / CSV – Data source
+# Key KPIs
 
-Data Modeling – Relationships & filters
+• Total Bookings: 334
 
-# Dashboard Features
+• Total Booking Amount: 1,100,700
 
-Interactive Map Visualization (state-wise analysis)
+• Completed Bookings: 307
 
-Slicers for State & Filters
+• Cancelled Bookings: 27
 
-Bar Charts for city, car model, and ratings
+• Average Rating: 5.89
 
-Calendar Heatmap for booking trends
+• These KPIs give a quick overview of business performance and service quality.
 
-Clean KPI cards for quick insights
+# Dashboard Insights
+1 Geographic Booking Distribution
 
-# Business Recommendations
+• Bookings are spread across multiple Indian states
 
-Increase fleet availability in high-demand cities
+• High activity in metro and tier-2 regions
 
-Promote top-rated car types
+# Helps optimize fleet distribution and regional operations.
 
-Improve service quality for low-rated categories
+2 Trip Type Analysis
 
-Introduce offers during low-booking weeks
+• Round trips and outstation trips show higher booking variability
+
+• Local and airport trips show stable demand
+
+# Supports pricing and route optimization.
+
+3 Top 5 Cities by Completed Bookings
+
+• Puri, Kanpur, and Lucknow are top-performing cities
+
+• Indicates strong demand in specific regions
+
+# Useful for targeted city-level promotions.
+
+4 Rating by Car Type
+
+• Luxury and SUV/XL car types receive higher customer ratings
+
+• Sedans show comparatively lower ratings
+
+# Helps improve service quality and fleet planning.
+
+5 Booking by Car Model
+
+• Honda Amaze and Toyota Glanza are the most booked models
+
+• Lower demand for premium SUVs like Mahindra XUV300
+
+# Guides procurement and vehicle replacement strategy.
+
+6 Booking Trend by Date
+
+• Bookings increase during mid-month and weekends
+
+• Week-wise pattern helps forecast demand
+
+# Helps in driver scheduling and surge management.
+
+# Key Business Takeaways
+
+• High booking completion rate indicates reliable service
+
+• Certain car models drive majority of demand
+
+• Customer ratings vary significantly by car type
+
+• City-level insights enable regional growth strategies
 # Dashboard
 <img width="1262" height="678" alt="Car Booking" src="https://github.com/user-attachments/assets/94af65b5-9bf8-4c3a-b904-8004ecd8110c" />
 
